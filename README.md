@@ -77,7 +77,6 @@ This project implements a **visual image search system** using handcrafted descr
 
 **MSRC Object Category Dataset (v2)**  
 - 591 images across 20 object categories  
-- [Download Link](http://download.microsoft.com/download/3/3/9/339D8A24-47D7-412F-A1E8-1A415BC48A15/msrc_objcategimagedatabase_v2.zip)
 
 ---
 
