@@ -2,7 +2,7 @@
 **EEE3032 – Computer Vision & Pattern Recognition (University of Surrey)**  
 **Author:** Taman Bachani (URN: 6846172)
 
-This project implements a **visual image search system** using handcrafted descriptors (Global RGB Histogram & Spatial Grid) and an **SVM classifier** to categorize real-world images from the [MSRC object category dataset](http://download.microsoft.com/download/3/3/9/339D8A24-47D7-412F-A1E8-1A415BC48A15/msrc_objcategimagedatabase_v2.zip).
+This project implements a **visual image search system** using handcrafted descriptors (Global RGB Histogram & Spatial Grid) and an **SVM classifier** to categorize real-world images from the MSRC object category dataset
 
 ---
 
